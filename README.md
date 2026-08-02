@@ -85,7 +85,7 @@ This project was completed as a three-member academic group project.
 - [LinkedIn Profile](https://www.linkedin.com/in/abdul-wahid-chohan/)
 - Email: [aw4532350@gmail.com](mailto:aw4532350@gmail.com)
 
-For full team contribution details, see [TEAM_CONTRIBUTIONS.md](file:///c:/Users/Chohan%20PC/Documents/GitHub/Bracket-Fan/TEAM_CONTRIBUTIONS.md).
+For full team contribution details, see [TEAM_CONTRIBUTIONS.md](TEAM_CONTRIBUTIONS.md).
 
 ---
 
@@ -137,7 +137,7 @@ bracket-fan-solidworks-cad/
 
 | Front View Reference | Side View Reference |
 | :---: | :---: |
-| ![Front view of an existing wall-mounted fan used as a visual reference](file:///c:/Users/Chohan%20PC/Documents/GitHub/Bracket-Fan/images/reference-fan-front-view.jpg) | ![Side view of the reference fan showing housing, protective grill, mounting bracket, and base](file:///c:/Users/Chohan%20PC/Documents/GitHub/Bracket-Fan/images/reference-fan-side-view.jpg) |
+| ![Front view of an existing wall-mounted fan used as a visual reference](images/reference-fan-front-view.jpg) | ![Side view of the reference fan showing housing, protective grill, mounting bracket, and base](images/reference-fan-side-view.jpg) |
 | *Front view of an existing wall-mounted fan used as a visual reference.* | *Side view of the reference fan showing the housing, protective grill, mounting bracket, and base.* |
 
 ### Section B: CAD Project Visuals
@@ -146,7 +146,7 @@ The images below display actual SolidWorks 2020 model screenshots generated duri
 
 | Full Model CAD View | Side Model CAD View |
 | :---: | :---: |
-| ![SolidWorks CAD model full front isometric view](file:///c:/Users/Chohan%20PC/Documents/GitHub/Bracket-Fan/images/cad-model-full-view.png) | ![SolidWorks CAD model side view](file:///c:/Users/Chohan%20PC/Documents/GitHub/Bracket-Fan/images/cad-model-side-view.png) |
+| ![SolidWorks CAD model full front isometric view](images/cad-model-full-view.png) | ![SolidWorks CAD model side view](images/cad-model-side-view.png) |
 | *SolidWorks CAD model full view.* | *SolidWorks CAD model side view.* |
 
 *Assembly view (`images/cad-assembly-view.png`): File not currently available. Additional exploded assembly screenshots can be added in future updates.*
@@ -213,7 +213,7 @@ The following items are identified strictly as potential future enhancements:
 
 ## License
 
-This repository is distributed under the [MIT License](file:///c:/Users/Chohan%20PC/Documents/GitHub/Bracket-Fan/LICENSE).
+This repository is distributed under the [MIT License](LICENSE).
 
 ---
 
